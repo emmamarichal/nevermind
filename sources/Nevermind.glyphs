@@ -1,10 +1,6 @@
 {
 .appVersion = "3507";
 .formatVersion = 3;
-DisplayStrings = (
-"Њ",
-"ђ"
-);
 axes = (
 {
 name = Weight;
@@ -18,12 +14,12 @@ tag = ital;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdot D Dcaron Dcroat Eth E Eacute Ecaron Ecedilla Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdot H Hbar Hcaron Hcircumflex I Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kacute Kcaron Kcommaaccent L Lacute Lcaron Lcircumflexbelow Lcommaaccent Lslash M Macute N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Pacute Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy uni04A4 Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Digamma";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecedilla Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gacute Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcaron Hcircumflex I Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kacute Kcaron Kcommaaccent L Lacute Lcaron Lcircumflexbelow Lcommaaccent Lslash M Macute N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Pacute Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Tse-cy Che-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Digamma";
 name = Uppercase;
 },
 {
 automatic = 1;
-code = "a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdot d dcaron dcroat eth e eacute ecaron ecedilla ecircumflex edieresis edotaccent egrave emacron eogonek etilde f g gacute gbreve gcaron gcircumflex gcommaaccent gdot h hbar hcaron hcircumflex i idotless iacute ibreve icaron icircumflex idieresis idotaccent igrave imacron iogonek itilde j jdotless jcircumflex k kacute kcaron kcommaaccent l lacute lcaron lcircumflexbelow lcommaaccent lslash m macute n nacute ncaron ncommaaccent ntilde o oacute ocaron ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p pacute thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent a-cy be-cy ve-cy ge-cy gje-cy geupturn-cy gedescender-cy gestroke-cy gemiddlehook-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy tse-cy che-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy yu-cy ya-cy dje-cy fita-cy izhitsa-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy uni04A5 pedescender-cy pemiddlehook-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy shhadescender-cy cheabkhasian-cy chedescenderabkhasian-cy palochka-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy yerudieresis-cy hahook-cy reversedze-cy elhook-cy we-cy zhe-cy.loclBGR iishort-cy.loclBGR alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos digamma";
+code = "a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth e eacute ecaron ecedilla ecircumflex edieresis edotaccent egrave emacron eogonek etilde f g gacute gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcaron hcircumflex i idotless iacute ibreve icaron icircumflex idieresis idotaccent igrave imacron iogonek itilde j jdotless jcircumflex k kacute kcaron kcommaaccent l lacute lcaron lcircumflexbelow lcommaaccent lslash m macute n nacute ncaron ncommaaccent ntilde o oacute ocaron ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p pacute thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent a-cy be-cy ve-cy ge-cy gje-cy geupturn-cy gedescender-cy gestroke-cy gemiddlehook-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ushort-cy ef-cy ha-cy tse-cy che-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy yu-cy ya-cy dje-cy fita-cy izhitsa-cy zhedescender-cy zedescender-cy kadescender-cy kaverticalstroke-cy kastroke-cy kabashkir-cy endescender-cy enge-cy pedescender-cy pemiddlehook-cy haabkhasian-cy esdescender-cy tedescender-cy ustraight-cy ustraightstroke-cy hadescender-cy tetse-cy chedescender-cy cheverticalstroke-cy shha-cy shhadescender-cy cheabkhasian-cy chedescenderabkhasian-cy palochka-cy zhebreve-cy kahook-cy eltail-cy enhook-cy entail-cy chekhakassian-cy emtail-cy abreve-cy adieresis-cy aie-cy iebreve-cy schwa-cy schwadieresis-cy zhedieresis-cy zedieresis-cy dzeabkhasian-cy imacron-cy idieresis-cy odieresis-cy obarred-cy obarreddieresis-cy edieresis-cy umacron-cy udieresis-cy uhungarumlaut-cy chedieresis-cy yerudieresis-cy hahook-cy reversedze-cy elhook-cy we-cy zhe-cy.loclBGR iishort-cy.loclBGR alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos digamma";
 name = Lowercase;
 }
 );
@@ -15146,8 +15142,8 @@ unicode = 264;
 },
 {
 color = 10;
-glyphname = Cdot;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = Cdotaccent;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -21337,8 +21333,8 @@ unicode = 290;
 },
 {
 color = 10;
-glyphname = Gdot;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = Gdotaccent;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -27283,7 +27279,7 @@ color = 10;
 glyphname = Jcircumflex;
 kernLeft = J;
 kernRight = J;
-lastChange = "2025-12-11 10:53:19 +0000";
+lastChange = "2025-12-11 14:28:24 +0000";
 layers = (
 {
 background = {
@@ -27462,7 +27458,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (153,443);
+pos = (-38,443);
 ref = circumflexcomb;
 }
 );
@@ -27844,7 +27840,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (153,443);
+pos = (-38,443);
 ref = circumflexcomb;
 }
 );
@@ -77183,8 +77179,8 @@ unicode = 265;
 },
 {
 color = 10;
-glyphname = cdot;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = cdotaccent;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -90286,8 +90282,8 @@ unicode = 291;
 },
 {
 color = 10;
-glyphname = gdot;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = gdotaccent;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -151145,8 +151141,8 @@ unicode = 1186;
 },
 {
 color = 3;
-glyphname = uni04A4;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = "EnGe-cy";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -189929,8 +189925,8 @@ unicode = 1187;
 },
 {
 color = 3;
-glyphname = uni04A5;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = "enge-cy";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -238359,8 +238355,8 @@ metricLeft = o;
 metricRight = o;
 },
 {
-glyphname = newGlyph;
-lastChange = "2025-12-11 13:51:55 +0000";
+glyphname = lineseparator;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "F66262BA-5A1D-44F4-BFD7-97C08A9A14E5";
@@ -238390,8 +238386,8 @@ width = 600;
 unicode = 8232;
 },
 {
-glyphname = newGlyph.001;
-lastChange = "2025-12-11 13:52:00 +0000";
+glyphname = paragraphseparator;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "F66262BA-5A1D-44F4-BFD7-97C08A9A14E5";
@@ -254756,8 +254752,8 @@ unicode = 8731;
 },
 {
 color = 10;
-glyphname = nabla;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = gradient;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -260419,8 +260415,8 @@ unicode = 37;
 },
 {
 color = 6;
-glyphname = uni2030;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = perthousand;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -267942,8 +267938,8 @@ unicode = 804;
 },
 {
 color = 10;
-glyphname = ringbelowcmb;
-lastChange = "2025-12-11 10:42:23 +0000";
+glyphname = ringbelowcomb;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 anchors = (
@@ -268844,8 +268840,8 @@ unicode = 813;
 },
 {
 color = 6;
-glyphname = brevebelowcmb;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = brevebelowcomb;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 anchors = (
@@ -269483,7 +269479,7 @@ category = Mark;
 color = 6;
 export = 0;
 glyphname = invertedbrevecomb;
-lastChange = "2025-12-11 13:52:25 +0000";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 anchors = (
@@ -270839,7 +270835,7 @@ metricRight = i;
 category = Mark;
 color = 6;
 glyphname = commaaccentrotate;
-lastChange = "2025-12-11 13:59:06 +0000";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 anchors = (
@@ -271009,8 +271005,8 @@ metricRight = i;
 },
 {
 color = 10;
-glyphname = uni02BC;
-lastChange = "2025-12-11 10:41:50 +0000";
+glyphname = apostrophemod;
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -271073,7 +271069,7 @@ unicode = 700;
 color = 6;
 export = 0;
 glyphname = _cjkguide;
-lastChange = "2025-12-11 13:52:25 +0000";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -271106,7 +271102,7 @@ script = han;
 color = 6;
 export = 0;
 glyphname = "bottom-hook";
-lastChange = "2025-12-11 13:52:25 +0000";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -271218,7 +271214,7 @@ metricRight = H;
 color = 6;
 export = 0;
 glyphname = "bottom-hook-angle";
-lastChange = "2025-12-11 13:52:25 +0000";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 layerId = "B1815A28-7A99-448B-912A-F8CD41C6863A";
@@ -271336,7 +271332,7 @@ metricRight = H;
 color = 6;
 export = 0;
 glyphname = topbar;
-lastChange = "2025-12-11 13:52:25 +0000";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 anchors = (
@@ -271472,7 +271468,7 @@ metricRight = H;
 color = 6;
 export = 0;
 glyphname = tophook;
-lastChange = "2025-12-11 13:52:25 +0000";
+lastChange = "2025-12-11 14:44:38 +0000";
 layers = (
 {
 anchors = (
@@ -271672,10 +271668,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271702,10 +271694,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271733,10 +271721,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271764,10 +271748,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271793,10 +271773,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271824,10 +271800,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271855,10 +271827,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271887,10 +271855,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271918,10 +271882,6 @@ Axis = Italic;
 Location = 0;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271948,10 +271908,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -271978,10 +271934,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -272009,10 +271961,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -272040,10 +271988,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -272069,10 +272013,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -272100,10 +272040,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -272131,10 +272067,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -272163,10 +272095,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -272194,10 +272122,6 @@ Axis = Italic;
 Location = 12;
 }
 );
-},
-{
-name = "Export DSIG Table";
-value = 0;
 }
 );
 instanceInterpolations = {
@@ -274246,9 +274170,6 @@ key = vendorID;
 value = XMIND;
 }
 );
-settings = {
-disablesNiceNames = 1;
-};
 stems = (
 {
 horizontal = 1;
