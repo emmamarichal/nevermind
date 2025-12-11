@@ -1,6 +1,9 @@
 {
 .appVersion = "3507";
 .formatVersion = 3;
+DisplayStrings = (
+E
+);
 axes = (
 {
 name = Weight;
@@ -257,27 +260,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = typoDescender;
-value = -494;
+value = -610;
+},
+{
+name = typoLineGap;
+value = 0;
 },
 {
 name = winAscent;
-value = 1984;
+value = 2000;
 },
 {
 name = winDescent;
-value = 494;
+value = 510;
 },
 {
 name = hheaAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = hheaDescender;
-value = -494;
+value = -610;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 iconName = Light;
@@ -326,27 +337,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = typoDescender;
-value = -494;
+value = -610;
+},
+{
+name = typoLineGap;
+value = 0;
 },
 {
 name = winAscent;
-value = 1984;
+value = 2000;
 },
 {
 name = winDescent;
-value = 494;
+value = 510;
 },
 {
 name = hheaAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = hheaDescender;
-value = -494;
+value = -610;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 id = "0A7ECE6A-DF67-46D8-8F43-1681A4AD540C";
@@ -394,27 +413,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = typoDescender;
-value = -494;
+value = -610;
+},
+{
+name = typoLineGap;
+value = 0;
 },
 {
 name = winAscent;
-value = 1984;
+value = 2000;
 },
 {
 name = winDescent;
-value = 494;
+value = 510;
 },
 {
 name = hheaAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = hheaDescender;
-value = -494;
+value = -610;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 iconName = Bold;
@@ -463,27 +490,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = typoDescender;
-value = -494;
+value = -610;
+},
+{
+name = typoLineGap;
+value = 0;
 },
 {
 name = winAscent;
-value = 1984;
+value = 2000;
 },
 {
 name = winDescent;
-value = 494;
+value = 510;
 },
 {
 name = hheaAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = hheaDescender;
-value = -494;
+value = -610;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 iconName = Light;
@@ -533,27 +568,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = typoDescender;
-value = -494;
+value = -610;
+},
+{
+name = typoLineGap;
+value = 0;
 },
 {
 name = winAscent;
-value = 1984;
+value = 2000;
 },
 {
 name = winDescent;
-value = 494;
+value = 510;
 },
 {
 name = hheaAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = hheaDescender;
-value = -494;
+value = -610;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 id = "0655DA90-B56F-496E-8077-C2A69D96FC98";
@@ -602,27 +645,35 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = typoDescender;
-value = -494;
+value = -610;
+},
+{
+name = typoLineGap;
+value = 0;
 },
 {
 name = winAscent;
-value = 1984;
+value = 2000;
 },
 {
 name = winDescent;
-value = 494;
+value = 510;
 },
 {
 name = hheaAscender;
-value = 1984;
+value = 2053;
 },
 {
 name = hheaDescender;
-value = -494;
+value = -610;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 iconName = Bold;
@@ -15810,7 +15861,7 @@ color = 6;
 glyphname = E;
 kernLeft = E;
 kernRight = E;
-lastChange = "2025-12-11 10:41:50 +0000";
+lastChange = "2025-12-11 13:24:44 +0000";
 layers = (
 {
 anchors = (
@@ -16050,7 +16101,7 @@ nodes = (
 (581,881,l),
 (626,1092,l),
 (1276,1092,l),
-(1350,1441,l),
+(1350,1443,l),
 (290,1443,l),
 (-16,0,l)
 );
