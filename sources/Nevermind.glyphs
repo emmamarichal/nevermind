@@ -1,6 +1,9 @@
 {
 .appVersion = "3507";
 .formatVersion = 3;
+DisplayStrings = (
+"/invertedbrevecomb"
+);
 axes = (
 {
 name = Weight;
@@ -217,6 +220,10 @@ code = "lookup SUB_16{
 	sub divide by divide.uc;
 	sub bullet by bullet.uc;
 	sub hyphenbullet by hyphenbullet.uc;
+	sub approxequal by approxequal.uc;
+	sub asciitilde by asciitilde.uc;
+
+
 
 } SUB_16;
 ";
@@ -262716,8 +262723,9 @@ subCategory = "";
 {
 category = Mark;
 color = 6;
+export = 0;
 glyphname = hook.up;
-lastChange = "2025-12-11 10:41:50 +0000";
+lastChange = "2025-12-11 13:51:11 +0000";
 layers = (
 {
 anchors = (
@@ -268100,8 +268108,9 @@ unicode = 817;
 {
 category = Mark;
 color = 6;
+export = 0;
 glyphname = invertedbrevecomb;
-lastChange = "2025-12-11 10:41:50 +0000";
+lastChange = "2025-12-11 13:51:26 +0000";
 layers = (
 {
 anchors = (
